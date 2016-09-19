@@ -15,11 +15,11 @@
 		<summary lang="en">BG Sport</summary>
 		<summary lang="bg">БГ Спорт</summary>
 		<description lang="en"></description>
-		<description lang="bg">Добавка за гледане на спортни събития на български отбори/спортисти.</description>
+		<description lang="bg">Добавка за гледане на спортни новини и събития на български отбори/спортисти.</description>
 		<disclaimer lang="en"></disclaimer>
 		<disclaimer lang="bg"></disclaimer>
-  	<forum>https://kodibg.org/forum/thread-75.html</forum>
-  	<website>https://github.com/harrygg/plugin.video.bgcameras</website>
+  	<forum>https://kodibg.org/forum/</forum>
+  	<website>https://github.com/harrygg/plugin.video.bgsport</website>
   	<email>harrygg@gmail.com</email>
   </extension>
 </addon>
